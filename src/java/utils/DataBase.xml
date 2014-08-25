@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>DataBase Configuration Properties</comment>
+<entry key="dbDriver">com.mysql.jdbc.Driver</entry>
+<entry key="dbUrl">jdbc:mysql://127.0.0.1:3306/android_db</entry>
+<entry key="user">android</entry>
+<entry key="password">hey_bro</entry>
+<entry key="dbUserTableName">users</entry>
+<entry key="dbLocationTableName">locations</entry>
+</properties>
+
+
